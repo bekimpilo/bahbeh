@@ -1,0 +1,40 @@
+/*
+	Comment
+*/
+* {
+	color: Black;
+	background-color: pink;
+}
+
+a {color: Black; 
+
+}
+
+.nav-items {
+	color: Black;
+	background-color:pink;
+	font-weight:bold;
+	text-align: right;
+    padding:0
+}
+.logo {
+	color: Black;
+	background-color:pink;
+	font-weight:bold;
+	font-style:italic;
+}
+
+.poem {
+	color: Black;
+	background-color: pink;
+	font-weight:bold;
+	font-style:italic;
+	text-align:center;
+	
+}
+.foot {
+	color: Black;
+	background-color:pink;
+	text-align: center;
+	
+}
